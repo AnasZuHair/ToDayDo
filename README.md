@@ -1,16 +1,10 @@
-# notse_app
+# Flutter ToDayDo 
 
-A new Flutter project.
+=> Provider Package
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot-1644078198117](https://user-images.githubusercontent.com/93432216/152650053-e92ed3b2-bfae-4a98-b60f-949509a878e7.png)
+![screenshot-1644078176779](https://user-images.githubusercontent.com/93432216/152650077-51d48e96-0374-40aa-9ac5-d72abdc60bf1.png)
+![screenshot-1644078186987](https://user-images.githubusercontent.com/93432216/152650080-6959daab-a7b3-4595-ba7f-32182a061a46.png)
+![screenshot-1644078164059](https://user-images.githubusercontent.com/93432216/152650082-eadcf5a9-f2e3-4f32-b784-b92e65a297b8.png)
+![screenshot-1639328601243](https://user-images.githubusercontent.com/93432216/152650083-816666d0-225e-4cdf-b409-0a99748efd40.png)
